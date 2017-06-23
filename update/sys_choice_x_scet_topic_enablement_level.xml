@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="enablement_level" table="x_scet_topic" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enablement_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>101</label>
+            <language>en</language>
+            <name>x_scet_topic</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bc23b596723320009eb5bb557415a1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <value>101</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enablement_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>201</label>
+            <language>en</language>
+            <name>x_scet_topic</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3c23b596723320009eb5bb557415a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <value>201</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enablement_level</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>301</label>
+            <language>en</language>
+            <name>x_scet_topic</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbc23b596723320009eb5bb557415a1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <value>301</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>enablement_level</element>
+            <name>x_scet_topic</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9fc23b596723320009eb5bb557415a1b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>enablement_level</sys_name>
+            <sys_package display_value="scet" source="x_scet">290fe3916723320009eb5bb557415ac7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="scet">290fe3916723320009eb5bb557415ac7</sys_scope>
+            <sys_update_name>sys_choice_x_scet_topic_enablement_level</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

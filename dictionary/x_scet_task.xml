@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Task" max_length="40" name="x_scet_task" type="collection">
+        <element label="Topic" max_length="32" name="topic" reference="x_scet_topic" type="reference"/>
+    </element>
+</database>
