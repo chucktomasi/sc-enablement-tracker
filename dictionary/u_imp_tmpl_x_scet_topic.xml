@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Scet Topic" max_length="40" name="u_imp_tmpl_x_scet_topic" type="collection">
+        <element attributes="import_attribute_name=Capability type,edge_encryption_enabled=true" label="Capability type" max_length="40" name="u_capability_type" type="string"/>
+        <element attributes="import_attribute_name=Class,edge_encryption_enabled=true" label="Class" max_length="40" name="u_class" type="string"/>
+        <element attributes="import_attribute_name=Coding level,edge_encryption_enabled=true" label="Coding level" max_length="40" name="u_coding_level" type="string"/>
+        <element attributes="import_attribute_name=Construct type,edge_encryption_enabled=true" label="Construct type" max_length="40" name="u_construct_type" type="string"/>
+        <element attributes="import_attribute_name=Enablement level" label="Enablement level" max_length="40" name="u_enablement_level" type="integer"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=State,edge_encryption_enabled=true" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>

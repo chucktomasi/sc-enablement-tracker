@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>enablement_level</element>
+        <name>x_scet_topic</name>
+        <style>background-color:LimeGreen</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-24 13:31:26</sys_created_on>
+        <sys_id>6b3b97656723320019af5bb557415a42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_scet_topic</sys_name>
+        <sys_package display_value="scet" source="x_scet">290fe3916723320009eb5bb557415ac7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scet">290fe3916723320009eb5bb557415ac7</sys_scope>
+        <sys_update_name>sys_ui_style_6b3b97656723320019af5bb557415a42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-24 13:31:26</sys_updated_on>
+        <value>101</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=6b3b97656723320019af5bb557415a42"/>
+</record_update>

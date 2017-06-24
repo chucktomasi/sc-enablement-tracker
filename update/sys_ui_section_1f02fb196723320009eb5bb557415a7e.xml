@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>dbc23b596723320009eb5bb557415a24</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>fc8a93656723320019af5bb557415a01</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>class</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>5fc23b596723320009eb5bb557415a24</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>708a93656723320019af5bb557415a02</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,69 +33,111 @@
             <element>capability_type</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>dfc23b596723320009eb5bb557415a24</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>f08a93656723320019af5bb557415a02</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>construct_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>748a93656723320019af5bb557415a02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>53c23b596723320009eb5bb557415a25</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>f48a93656723320019af5bb557415a02</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>d3c23b596723320009eb5bb557415a25</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>308a93656723320019af5bb557415a0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>coding_level</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>57c23b596723320009eb5bb557415a25</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>b08a93656723320019af5bb557415a0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>enablement_level</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-23 20:35:41</sys_created_on>
-            <sys_id>d7c23b596723320009eb5bb557415a25</sys_id>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>348a93656723320019af5bb557415a0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-23 20:35:41</sys_updated_on>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>b48a93656723320019af5bb557415a0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>text</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-24 13:28:02</sys_created_on>
+            <sys_id>388a93656723320019af5bb557415a0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_scet_topic" sys_domain="global" view="Default view">1f02fb196723320009eb5bb557415a7e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-24 13:28:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -107,7 +149,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-06-23 20:32:23</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1f02fb196723320009eb5bb557415a7e</sys_id>
@@ -116,7 +157,6 @@
             <sys_overrides/>
             <sys_package display_value="scet" source="x_scet">290fe3916723320009eb5bb557415ac7</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="scet">290fe3916723320009eb5bb557415ac7</sys_scope>
             <sys_update_name>sys_ui_section_1f02fb196723320009eb5bb557415a7e</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

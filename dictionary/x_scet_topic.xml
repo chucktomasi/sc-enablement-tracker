@@ -21,6 +21,17 @@
                 <element label="Pro code" sequence="2" value="Pro code"/>
             </choice>
         </element>
+        <element choice="1" label="Construct type" max_length="40" name="construct_type" type="choice">
+            <choice>
+                <element label="Data Model" sequence="0" value="Data Model"/>
+                <element label="Form &amp; UI" sequence="1" value="Form &amp; UI"/>
+                <element label="Server Development" sequence="2" value="Server Development"/>
+                <element label="Client Development" sequence="3" value="Client Development"/>
+                <element label="Notifications" sequence="4" value="Notifications"/>
+                <element label="Service Portal" sequence="5" value="Service Portal"/>
+                <element label="Security" sequence="6" value="Security"/>
+            </choice>
+        </element>
         <element choice="3" default="101" label="Enablement level" max_length="40" name="enablement_level" type="choice">
             <choice>
                 <element label="101" sequence="0" value="101"/>
@@ -36,5 +47,6 @@
                 <element label="Complete" sequence="2" value="Complete"/>
             </choice>
         </element>
+        <element label="Text" max_length="4000" name="text" type="html"/>
     </element>
 </database>
